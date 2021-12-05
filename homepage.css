@@ -1,0 +1,183 @@
+/*-----Background Image-----*/
+#homepage-body {
+    background-image: url(https://images.unsplash.com/photo-1581515286348-98549702050f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1502&q=80);
+    background-position: right 50px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/*-----Jumbotron Heading-----*/
+.jumbotron {
+    background-color: #653E7A;
+    color: white;
+}
+
+
+/*-----Navigation Bar-----*/
+.navbar-custom {
+    background-color: #F5F5F5;
+}
+
+
+/*-----Navigation Bar Links-----*/
+a.navbar-brand:link, a.navbar-brand:visited {
+    color: #653E7A;
+}
+
+a.navbar-brand:hover, a.navbar-brand:active {
+    color: #F5F5F5;
+}
+
+a.dropdown-toggle:link, a.dropdown-toggle:visited {
+    color:#653E7A;
+}
+
+a:link, a:visited {
+    color: #653E7A;
+}
+
+a.link:hover, a.link:active {
+    background-color: white;
+}
+    
+/*-----Drop Down Menu Links-----*/
+a.drop-item:link, a.drop-item:visited {
+    color: #653E7A;
+}
+
+
+/*-----Aisle Page Links & Info-----*/
+a.btn.btn-primary:link, a.btn.btn-primary:visited{
+    background: #653E7A;
+    color: white;
+    border: 1px solid  #555555;
+}
+
+a.btn.btn-primary:hover {
+    background-color: #70a970;
+    color: white;
+    border: 1px solid  #555555;
+}
+
+h5.card-title {
+    margin-top: 10px;
+}
+
+/*-----Product Description Page-----*/
+
+#price-update {
+    color: #653E7A;
+}
+
+.product-page-container {
+    margin: 7%;
+}
+
+#quantity {
+    max-width: 100px;
+    text-align: center;
+}
+
+#product-img {
+    max-width: 200px;
+}
+
+#product-img-1 {
+    max-width: 300px;
+}
+
+.card {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-bottom: 25px;
+}
+
+div.card.mb-4 {
+    max-width: 40%;
+}
+
+#collapseButton {
+    margin-top: 10px;
+    text-decoration: underline;
+    border: none;
+    background-color: white;
+    color: #555555;
+}
+
+#descriptionButton {
+    margin-top: 10px;
+    text-decoration: underline;
+    border: none;
+    background-color: white;
+    color: #555555;
+}
+
+#product-description {
+    color: #555555;
+    margin-left: 5px;
+}
+
+#userClearCart {
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: white;
+    color: #ff4d4d;
+}
+
+#userClearCart:hover {
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: #ffe6e6;
+    color: #ff4d4d;
+}
+
+#submitCart {
+    margin-left: 15px;
+    border: 1px solid  #555555;
+    border-radius: 5px;
+    background-color: #653E7A;
+    color: white;
+}
+
+#submitCart:hover {
+    margin-left: 15px;
+    border: 1px solid  #555555;
+    border-radius: 5px;
+    background-color: #70a970;
+    color: white;
+}
+
+
+/*-----Footer-----*/
+#special-footer {
+    position: relative;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #653E7A;
+    color: #373737;
+}
+
+#homepage-footer {
+    position: absolute;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #653E7A;
+    color: #373737;
+}
+
+.footer {
+    position: relative;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #653E7A;
+    color: #373737;
+}
