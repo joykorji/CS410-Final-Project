@@ -9,7 +9,7 @@
 
 /*-----Jumbotron Heading-----*/
 .jumbotron {
-    background-color: #653E7A;
+    background-color: #8FBC8F;
     color: white;
 }
 
@@ -22,7 +22,7 @@
 
 /*-----Navigation Bar Links-----*/
 a.navbar-brand:link, a.navbar-brand:visited {
-    color: #653E7A;
+    color: #8FBC8F;
 }
 
 a.navbar-brand:hover, a.navbar-brand:active {
@@ -30,11 +30,11 @@ a.navbar-brand:hover, a.navbar-brand:active {
 }
 
 a.dropdown-toggle:link, a.dropdown-toggle:visited {
-    color:#653E7A;
+    color:#8FBC8F;
 }
 
 a:link, a:visited {
-    color: #653E7A;
+    color: #8FBC8F;
 }
 
 a.link:hover, a.link:active {
@@ -43,13 +43,13 @@ a.link:hover, a.link:active {
     
 /*-----Drop Down Menu Links-----*/
 a.drop-item:link, a.drop-item:visited {
-    color: #653E7A;
+    color: #8FBC8F;
 }
 
 
 /*-----Aisle Page Links & Info-----*/
 a.btn.btn-primary:link, a.btn.btn-primary:visited{
-    background: #653E7A;
+    background: #8FBC8F;
     color: white;
     border: 1px solid  #555555;
 }
@@ -67,7 +67,7 @@ h5.card-title {
 /*-----Product Description Page-----*/
 
 #price-update {
-    color: #653E7A;
+    color: #8FBC8F;
 }
 
 .product-page-container {
@@ -135,7 +135,7 @@ div.card.mb-4 {
     margin-left: 15px;
     border: 1px solid  #555555;
     border-radius: 5px;
-    background-color: #653E7A;
+    background-color: #8FBC8F;
     color: white;
 }
 
@@ -156,7 +156,7 @@ div.card.mb-4 {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #653E7A;
+    background-color: #8FBC8F;
     color: #373737;
 }
 
@@ -167,7 +167,7 @@ div.card.mb-4 {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #653E7A;
+    background-color: #8FBC8F;
     color: #373737;
 }
 
@@ -178,6 +178,6 @@ div.card.mb-4 {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #653E7A;
+    background-color: #8FBC8F;
     color: #373737;
 }
